@@ -7,10 +7,26 @@ Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear 
 ## Requerimientos del Sprint 1: Creación de un modelo
  
 ✔️ Requerimiento 1: Se necesita un modelo `User` para guardar la información de un usuario de nuestra app: `id`, `username`, `name`,`bio`, `dateCreated` y `lastUpdated`. 
-Solución: Crear una clase User y un constructor que guarde estos parámetros. 
+
+### Solución
+
+🔵 **Prueba para el requerimiento**
 
 ![Prueba para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/e87c1c0fdc62e34f2bdd657d5ed25fdc21491910/images/prueba_requerimiento_1.PNG)
- 
+
+🔵 **Clase para el requerimiento**
+
+![Clase para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_1.PNG)
+
+🔵 **Error de la prueba**
+
+![Error del requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/error_requerimiento_1.PNG)
+
+🔵 *Prueba aceptada**
+
+![Prueba aceptada del requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/prueba_pass_requerimiento_1.PNG)
+
+
 ✔️ Requerimiento 2: Las propiedades `dateCreated` y `lastUpdated` deberán ser datos de tipo fecha que guarden el momento en que se instancie un nuevo objeto de la clase `User`.
 Solución: Modifica el constructor de la clase creada y asigna un valor por defecto a estos atributos usando `new Date()`.
  
