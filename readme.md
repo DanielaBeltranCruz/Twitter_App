@@ -8,33 +8,94 @@ Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear 
  
 ✔️ Requerimiento 1: Se necesita un modelo `User` para guardar la información de un usuario de nuestra app: `id`, `username`, `name`,`bio`, `dateCreated` y `lastUpdated`. 
 
-### Solución
+### Solución 
+
+> Crear una clase User y un constructor que guarde estos parámetros. 
 
 🔵 **Prueba para el requerimiento**
 
 ![Prueba para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/e87c1c0fdc62e34f2bdd657d5ed25fdc21491910/images/prueba_requerimiento_1.PNG)
 
-🔵 **Clase para el requerimiento**
-
-![Clase para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_1.PNG)
-
 🔵 **Error de la prueba**
 
 ![Error del requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/error_requerimiento_1.PNG)
 
-🔵 *Prueba aceptada**
+🔵 **Clase para el requerimiento**
+
+![Clase para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_1.PNG)
+
+🔵 **Prueba aceptada**
 
 ![Prueba aceptada del requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/prueba_pass_requerimiento_1.PNG)
 
 
 ✔️ Requerimiento 2: Las propiedades `dateCreated` y `lastUpdated` deberán ser datos de tipo fecha que guarden el momento en que se instancie un nuevo objeto de la clase `User`.
-Solución: Modifica el constructor de la clase creada y asigna un valor por defecto a estos atributos usando `new Date()`.
+
+### Solución
+
+> Modifica el constructor de la clase creada y asigna un valor por defecto a estos atributos usando `new Date()`.
+
+🔵 **Prueba para el requerimiento**
+
+![Prueba para el requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/e87c1c0fdc62e34f2bdd657d5ed25fdc21491910/images/prueba_requerimiento_2.PNG)
+
+🔵 **Error de la prueba**
+
+![Error del requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/error_requerimiento_2.PNG)
+
+🔵 **Clase para el requerimiento**
+
+![Clase para el requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_2.PNG)
+
+🔵 **Prueba aceptada**
+
+![Prueba aceptada del requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/prueba_pass_requerimiento_2.PNG)
+
  
 ✔️ Requerimiento 3: Cada objeto tipo user necesita los siguietes gettes: `getUsername`, `getBio`, `getDateCreated`, `getLastUpdated`.
-Solución: Agrega los getters regresando la propiedad indicada, no olvides usar `this`.
+### Solución
+
+> Agrega los getters regresando la propiedad indicada, no olvides usar `this`.
+
+🔵 **Prueba para el requerimiento**
+
+![Prueba para el requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/e87c1c0fdc62e34f2bdd657d5ed25fdc21491910/images/prueba_requerimiento_3.PNG)
+
+🔵 **Error de la prueba**
+
+![Error del requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/error_requerimiento_3.PNG)
+
+🔵 **Clase para el requerimiento**
+
+![Clase para el requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_3.PNG)
+
+🔵 **Prueba aceptada**
+
+![Prueba aceptada del requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/prueba_pass_requerimiento_3.PNG)
+
  
 ✔️ Requerimiento 4: Cada objeto necesita los siguientes setters: `setUsername` y `setBio`, para actualizar dichas propiedades.
-Solución: Agrega los setters usando la palabra `set` y modificando el atributo indicado.
+
+### Solución
+
+> Agrega los setters usando la palabra `set` y modificando el atributo indicado.
+
+🔵 **Prueba para el requerimiento**
+
+![Prueba para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/e87c1c0fdc62e34f2bdd657d5ed25fdc21491910/images/prueba_requerimiento_4.PNG)
+
+🔵 **Error de la prueba**
+
+![Error del requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/error_requerimiento_4.PNG)
+
+🔵 **Clase para el requerimiento**
+
+![Clase para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_4.PNG)
+
+🔵 **Prueba aceptada**
+
+![Prueba aceptada del requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/prueba_pass_requerimiento_4.PNG)
+
 
 # ⭐️ Sprint 2: Agregar servicios
 
