@@ -8,7 +8,7 @@ Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear 
  
 ✔️ Requerimiento 1: Se necesita un modelo `User` para guardar la información de un usuario de nuestra app: `id`, `username`, `name`,`bio`, `dateCreated` y `lastUpdated`. 
 
-<details open>
+<details close>
 <summary> Solución </summary>
 
 🔵 **Prueba para el requerimiento**
