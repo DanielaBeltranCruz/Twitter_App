@@ -11,21 +11,27 @@ Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear 
 <details open>
 <summary> Solución </summary>
 
-> Crear una clase User y un constructor que guarde estos parámetros. 
-
 🔵 **Prueba para el requerimiento**
+
+> Mediante el uso de la técnica TDD, escribe el código para la prueba de acuerdo al requerimiento y posteriormente, ejecuta la prueba.
 
 ![Prueba para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/e87c1c0fdc62e34f2bdd657d5ed25fdc21491910/images/prueba_requerimiento_1.PNG)
 
 🔵 **Error de la prueba**
 
+> Al ejecutar el script de la prueba, arroja el siguiente error debido a que no se ha creado el objeto.
+
 ![Error del requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/error_requerimiento_1.PNG)
 
 🔵 **Clase para el requerimiento**
 
+> Para corregir el error anterior, se crea un script nuevo con la clase **User** y un constructor que guarde los parámetros solicitados en el requerimiento. 
+
 ![Clase para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_1.PNG)
 
 🔵 **Prueba aceptada**
+
+> Se ejecuta de nuevo la prueba.
 
 ![Prueba aceptada del requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/prueba_pass_requerimiento_1.PNG)
 </details>
@@ -35,7 +41,7 @@ Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear 
 <details open>
 <summary> Solución </summary>
 
-> Modificar el constructor de la clase creada y asignar un valor por defecto a estos atributos usando `new Date()`.
+> Modifica el constructor de la clase creada y asigna un valor por defecto a estos atributos usando `new Date()`.
 
 🔵 **Prueba para el requerimiento**
 
