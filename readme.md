@@ -74,7 +74,6 @@ Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear 
 
 ![Clase para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%201/requerimiento_clase_4.PNG)
 
-
 </details>
 
 # ⭐️ Sprint 2: Agregar servicios
@@ -90,11 +89,11 @@ Criterios de aceptación:
 
 🔵 **Prueba para el requerimiento**
 
-![Prueba para el requerimiento 1]()
+![Prueba para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%202/prueba_requerimiento_1.PNG)
 
 🔵 **Clase para el requerimiento**
 
-![Clase para el requerimiento 1]()
+![Clase para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%202/requerimiento_clase_1.PNG)
 
 </details>
 
@@ -105,11 +104,11 @@ Criterios de aceptación:
 
 🔵 **Prueba para el requerimiento**
 
-![Prueba para el requerimiento 2]()
+![Prueba para el requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%202/prueba_requerimiento_2.PNG)
 
 🔵 **Clase para el requerimiento**
 
-![Clase para el requerimiento 2]()
+![Clase para el requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%202/requerimiento_clase_2.PNG)
 
 </details>
 
@@ -120,11 +119,11 @@ Criterios de aceptación:
 
 🔵 **Prueba para el requerimiento**
 
-![Prueba para el requerimiento 3]()
+![Prueba para el requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%202/prueba_requerimiento_3.PNG)
 
 🔵 **Clase para el requerimiento**
 
-![Clase para el requerimiento 3]()
+![Clase para el requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%202/requerimiento_clase_3.PNG)
 
 </details>
 
@@ -135,10 +134,10 @@ Criterios de aceptación:
 
 🔵 **Prueba para el requerimiento**
 
-![Prueba para el requerimiento 4]()
+![Prueba para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%202/prueba_requerimiento_4.PNG)
 
 🔵 **Clase para el requerimiento**
 
-![Clase para el requerimiento 4]()
+![Clase para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%202/requerimiento_clase_4.PNG)
 
 </details>
