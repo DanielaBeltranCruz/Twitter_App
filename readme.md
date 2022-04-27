@@ -141,3 +141,58 @@ Criterios de aceptación:
 ![Clase para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%202/requerimiento_clase_4.PNG)
 
 </details>
+
+# ⭐️ Sprint 3: Agregar vistas
+
+## Requerimientos
+
+Crea una clase llamada `UserView` que servirá para interactuar con el modelo `User` a través de `userService`. Crea un método en esta clase llamado `create User` que sirva para crear un nuevo objeto user a partir de un `payload`, quiero decir un objeto que contenga información para crearlo.
+
+✔️ Requerimiento 1: Valida que al enviar en el `payload` un valor `null`, obtenga un objeto con la llave `error` y el valor indique `payload no existe`.
+
+🔵 **Prueba para el requerimiento**
+![Prueba para el requerimiento 1]()
+
+🔵 **Clase para el requerimiento**
+![Clase para el requerimiento 1]()
+
+<details close>
+<summary> Solución </summary>
+</details>
+
+✔️ Requerimiento 2: Valida que un `payload` contenga en alguna de las llaves `username`, `name`, o `id` un valor en `null`. Si hay un valor `null` regresa un objeto con la llave `error` y que indique el texto: `necesitan tener un valor válido`.
+
+🔵 **Prueba para el requerimiento**
+![Prueba para el requerimiento 2]()
+
+🔵 **Clase para el requerimiento**
+![Clase para el requerimiento 2]()
+
+<details close>
+<summary> Solución </summary>
+</details>
+
+✔️ Requerimiento 3: Valida que un `payload` con algunas de las propiedades necesarias regrese un objeto con la llave `error` indicando `necesitan tener un valor válido`.
+
+🔵 **Prueba para el requerimiento**
+![Prueba para el requerimiento 3]()
+
+🔵 **Clase para el requerimiento**
+![Clase para el requerimiento 3]()
+
+<details close>
+<summary> Solución </summary>
+</details>
+
+✔️ Requerimiento 4: Verifica que se pueda crear un objeto `User`, al enviar un payload con las siguientes propiedades: `username`, `id` y `name`.
+
+🔵 **Prueba para el requerimiento**
+![Prueba para el requerimiento 4]()
+
+🔵 **Clase para el requerimiento**
+![Clase para el requerimiento 4]()
+
+<details close>
+<summary> Solución </summary>
+</details>
+
