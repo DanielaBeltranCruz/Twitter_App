@@ -146,7 +146,8 @@ Criterios de aceptación:
 
 ## Requerimientos
 
-Crea una clase llamada `UserView` que servirá para interactuar con el modelo `User` a través de `userService`. Crea un método en esta clase llamado `create User` que sirva para crear un nuevo objeto user a partir de un `payload`, quiero decir un objeto que contenga información para crearlo.
+> Crea una clase llamada `UserView` que servirá para interactuar con el modelo `User` a través de `UserService`. 
+> Crea un método en esta clase llamado `createUser` que sirva para crear un nuevo objeto `user` a partir de un `payload`, es decir, un objeto que contenga información para crearlo.
 
 ✔️ Requerimiento 1: Valida que al enviar en el `payload` un valor `null`, obtenga un objeto con la llave `error` y el valor indique `payload no existe`.
 
@@ -154,10 +155,10 @@ Crea una clase llamada `UserView` que servirá para interactuar con el modelo `U
 <summary> Solución </summary>
 
 🔵 **Prueba para el requerimiento**
-![Prueba para el requerimiento 1]()
+![Prueba para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%203/prueba_requerimiento_1.PNG)
 
 🔵 **Clase para el requerimiento**
-![Clase para el requerimiento 1]()
+![Clase para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%203/requerimiento_clase_1.PNG)
 
 </details>
 
@@ -167,10 +168,10 @@ Crea una clase llamada `UserView` que servirá para interactuar con el modelo `U
 <summary> Solución </summary>
 
 🔵 **Prueba para el requerimiento**
-![Prueba para el requerimiento 2]()
+![Prueba para el requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%203/prueba_requerimiento_2.PNG)
 
 🔵 **Clase para el requerimiento**
-![Clase para el requerimiento 2]()
+![Clase para el requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%203/requerimiento_clase_2.PNG)
 
 </details>
 
@@ -180,10 +181,7 @@ Crea una clase llamada `UserView` que servirá para interactuar con el modelo `U
 <summary> Solución </summary>
 
 🔵 **Prueba para el requerimiento**
-![Prueba para el requerimiento 3]()
-
-🔵 **Clase para el requerimiento**
-![Clase para el requerimiento 3]()
+![Prueba para el requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%203/prueba_requerimiento_3.PNG)
 
 </details>
 
@@ -193,10 +191,10 @@ Crea una clase llamada `UserView` que servirá para interactuar con el modelo `U
 <summary> Solución </summary>
 
 🔵 **Prueba para el requerimiento**
-![Prueba para el requerimiento 4]()
+![Prueba para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%203/prueba_requerimiento_4.PNG)
 
 🔵 **Clase para el requerimiento**
-![Clase para el requerimiento 4]()
+![Clase para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%203/requerimiento_clase_4.PNG)
 
 </details>
 
