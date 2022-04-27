@@ -150,17 +150,21 @@ Crea una clase llamada `UserView` que servirá para interactuar con el modelo `U
 
 ✔️ Requerimiento 1: Valida que al enviar en el `payload` un valor `null`, obtenga un objeto con la llave `error` y el valor indique `payload no existe`.
 
+<details close>
+<summary> Solución </summary>
+
 🔵 **Prueba para el requerimiento**
 ![Prueba para el requerimiento 1]()
 
 🔵 **Clase para el requerimiento**
 ![Clase para el requerimiento 1]()
 
-<details close>
-<summary> Solución </summary>
 </details>
 
 ✔️ Requerimiento 2: Valida que un `payload` contenga en alguna de las llaves `username`, `name`, o `id` un valor en `null`. Si hay un valor `null` regresa un objeto con la llave `error` y que indique el texto: `necesitan tener un valor válido`.
+
+<details close>
+<summary> Solución </summary>
 
 🔵 **Prueba para el requerimiento**
 ![Prueba para el requerimiento 2]()
@@ -168,11 +172,12 @@ Crea una clase llamada `UserView` que servirá para interactuar con el modelo `U
 🔵 **Clase para el requerimiento**
 ![Clase para el requerimiento 2]()
 
-<details close>
-<summary> Solución </summary>
 </details>
 
 ✔️ Requerimiento 3: Valida que un `payload` con algunas de las propiedades necesarias regrese un objeto con la llave `error` indicando `necesitan tener un valor válido`.
+
+<details close>
+<summary> Solución </summary>
 
 🔵 **Prueba para el requerimiento**
 ![Prueba para el requerimiento 3]()
@@ -180,11 +185,12 @@ Crea una clase llamada `UserView` que servirá para interactuar con el modelo `U
 🔵 **Clase para el requerimiento**
 ![Clase para el requerimiento 3]()
 
-<details close>
-<summary> Solución </summary>
 </details>
 
 ✔️ Requerimiento 4: Verifica que se pueda crear un objeto `User`, al enviar un payload con las siguientes propiedades: `username`, `id` y `name`.
+
+<details close>
+<summary> Solución </summary>
 
 🔵 **Prueba para el requerimiento**
 ![Prueba para el requerimiento 4]()
@@ -192,7 +198,5 @@ Crea una clase llamada `UserView` que servirá para interactuar con el modelo `U
 🔵 **Clase para el requerimiento**
 ![Clase para el requerimiento 4]()
 
-<details close>
-<summary> Solución </summary>
 </details>
 
