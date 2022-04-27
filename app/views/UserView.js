@@ -10,6 +10,9 @@ class UserView {
         (typeof payload.id !== 'number' || payload.id === null)) {
             return {error: 'Necesitan tener un valor valido'}
         }
+        else{
+            return UserService.create(payload.id,payload.username,payload.name)
+        }
     }
 }
 
