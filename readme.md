@@ -1,8 +1,8 @@
-# ⭐️ Sprint 1: Agregar modelos
-
 # Twitter
 
 Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear la aplicación `Twitter`. Para ello han definido la primera etapa del sprint con los siguientes requerimientos a desarrollar:
+
+# ⭐️ Sprint 1: Agregar modelos
 
 ## Requerimientos del Sprint 1: Creación de un modelo
  
@@ -15,25 +15,14 @@ Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear 
 
 > Mediante el uso de la técnica TDD, escribe el código para la prueba de acuerdo al requerimiento y posteriormente, ejecuta la prueba.
 
-![Prueba para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/e87c1c0fdc62e34f2bdd657d5ed25fdc21491910/images/prueba_requerimiento_1.PNG)
-
-🔵 **Error de la prueba**
-
-> Al ejecutar el script de la prueba, arroja el siguiente error debido a que no se ha creado el objeto.
-
-![Error del requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/error_requerimiento_1.PNG)
+![Prueba para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%201/prueba_requerimiento_1.PNG)
 
 🔵 **Clase para el requerimiento**
 
-> Para corregir el error anterior, se crea un script nuevo con la clase **User** y un constructor que guarde los parámetros solicitados en el requerimiento. 
+> Para corregir el error arrojado al ejecutar la prueba, se crea un script nuevo con la clase **User** y un constructor que guarde los parámetros solicitados en el requerimiento. 
 
-![Clase para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_1.PNG)
+![Clase para el requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%201/requerimiento_clase_1.PNG)
 
-🔵 **Prueba aceptada**
-
-> Se ejecuta de nuevo la prueba.
-
-![Prueba aceptada del requerimiento 1](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/prueba_pass_requerimiento_1.PNG)
 </details>
 
 ✔️ Requerimiento 2: Las propiedades `dateCreated` y `lastUpdated` deberán ser datos de tipo fecha que guarden el momento en que se instancie un nuevo objeto de la clase `User`.
@@ -45,19 +34,12 @@ Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear 
 
 🔵 **Prueba para el requerimiento**
 
-![Prueba para el requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/e87c1c0fdc62e34f2bdd657d5ed25fdc21491910/images/prueba_requerimiento_2.PNG)
-
-🔵 **Error de la prueba**
-
-![Error del requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/error_requerimiento_2.PNG)
+![Prueba para el requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%201/prueba_requerimiento_2.PNG)
 
 🔵 **Clase para el requerimiento**
 
-![Clase para el requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_2.PNG)
+![Clase para el requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%201/requerimiento_clase_2.PNG)
 
-🔵 **Prueba aceptada**
-
-![Prueba aceptada del requerimiento 2](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/prueba_pass_requerimiento_2.PNG)
 </details>
  
 ✔️ Requerimiento 3: Cada objeto tipo `user` necesita los siguietes gettes: `getUsername`, `getBio`, `getDateCreated`, `getLastUpdated`.
@@ -69,19 +51,12 @@ Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear 
 
 🔵 **Prueba para el requerimiento**
 
-![Prueba para el requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/e87c1c0fdc62e34f2bdd657d5ed25fdc21491910/images/prueba_requerimiento_3.PNG)
-
-🔵 **Error de la prueba**
-
-![Error del requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/error_requerimiento_3.PNG)
+![Prueba para el requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%201/prueba_requerimiento_3.PNG)
 
 🔵 **Clase para el requerimiento**
 
-![Clase para el requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_3.PNG)
+![Clase para el requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%201/requerimiento_clase_3.PNG)
 
-🔵 **Prueba aceptada**
-
-![Prueba aceptada del requerimiento 3](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/prueba_pass_requerimiento_3.PNG)
 </details>
  
 ✔️ Requerimiento 4: Cada objeto necesita los siguientes setters: `setUsername` y `setBio`, para actualizar dichas propiedades.
@@ -93,19 +68,13 @@ Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear 
 
 🔵 **Prueba para el requerimiento**
 
-![Prueba para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/e87c1c0fdc62e34f2bdd657d5ed25fdc21491910/images/prueba_requerimiento_4.PNG)
-
-🔵 **Error de la prueba**
-
-![Error del requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/error_requerimiento_4.PNG)
+![Prueba para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%201/prueba_requerimiento_4.PNG)
 
 🔵 **Clase para el requerimiento**
 
-![Clase para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/requerimiento_clase_4.PNG)
+![Clase para el requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/Sprint%201/requerimiento_clase_4.PNG)
 
-🔵 **Prueba aceptada**
 
-![Prueba aceptada del requerimiento 4](https://github.com/DanielaBeltranCruz/Twitter_App/blob/main/images/prueba_pass_requerimiento_4.PNG)
 </details>
 
 # ⭐️ Sprint 2: Agregar servicios
@@ -118,22 +87,58 @@ Criterios de aceptación:
 
 <details close>
 <summary> Solución </summary>
+
+🔵 **Prueba para el requerimiento**
+
+![Prueba para el requerimiento 1]()
+
+🔵 **Clase para el requerimiento**
+
+![Clase para el requerimiento 1]()
+
 </details>
 
 ✔️ Requerimiento 2: Agregar un nuevo método estático en `UserService` llamado `getInfo` que al recibir un objeto de la clase `User`, me regrese una lista con todos los valores de los atributos de dicho objeto.
 
 <details close>
 <summary> Solución </summary>
+
+🔵 **Prueba para el requerimiento**
+
+![Prueba para el requerimiento 2]()
+
+🔵 **Clase para el requerimiento**
+
+![Clase para el requerimiento 2]()
+
 </details>
 
 ✔️ Requerimiento 3: Agregar un nuevo método estático en `UserService` llamado `updateUserUsername`, que reciba un objeto de la clase `User` y un nuevo string, que actualizará el valor de `username`. 
 
 <details close>
 <summary> Solución </summary>
+
+🔵 **Prueba para el requerimiento**
+
+![Prueba para el requerimiento 3]()
+
+🔵 **Clase para el requerimiento**
+
+![Clase para el requerimiento 3]()
+
 </details>
 
 ✔️ Requerimiento 4: Agregar un nuevo método estático en `UserService` llamado `getAllUsernames`, que recibirá una lista de objetos de la clase `User`, y regresará la lista de todos los usernames de dichos objetos. 
 
 <details close>
 <summary> Solución </summary>
+
+🔵 **Prueba para el requerimiento**
+
+![Prueba para el requerimiento 4]()
+
+🔵 **Clase para el requerimiento**
+
+![Clase para el requerimiento 4]()
+
 </details>
