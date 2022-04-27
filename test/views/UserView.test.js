@@ -26,7 +26,6 @@ describe("Test fot UserView", () => {
         expect(result.name).toBe("name")
         expect(result.username).toBe("username")
         expect(result.id).toBe(1)
-         
-    })
+    });
 })
 
